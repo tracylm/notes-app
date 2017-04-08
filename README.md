@@ -1,1 +1,1 @@
-https://pub.scotch.io/@mwaleh/how-to-build-a-notes-app-using-django-and-mongodb
+This is the code for the MongoDB Notes tutorial in the Advanced Beginner's Challenge (Python). The course can be found at https://www.advancedbeginnerchallenge.com and the tutorial is available at https://pub.scotch.io/@mwaleh/how-to-build-a-notes-app-using-django-and-mongodb.
